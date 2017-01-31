@@ -17,7 +17,7 @@
 
 ##Guidance Notes
 
-**MLO Compliance**: This property extends the Date property defined in [CWA 15903](ftp://ftp.cenorm.be/PUBLIC/CWAs/e-Europe/WS-LT/CWA15903-00-2008-Dec.pdf)
+**MLO Compliance**: This property extends the Date property defined in CWA 15903, available from ftp://ftp.cenorm.be/PUBLIC/CWAs/e-Europe/WS-LT/CWA15903-00-2008-Dec.pdf.
 
 
 ##Usage
