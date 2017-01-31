@@ -34,4 +34,4 @@
 ##Usage
 
 Address is used in instances of
-[Organisation](Category%253AOrganisation_Types.md).
+[Location](Location.md)
